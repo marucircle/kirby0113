@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> 
-  <img alt="github stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=marucircle&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
+<!--   <img alt="github stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=marucircle&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" /> -->
   
   <img alt="github trophy" width="500px" src="https://github-profile-trophy.vercel.app/?username=marucircle&theme=juicyfresh&column=4)](https://github.com/ryo-ma/github-profile-trophy" />
 </p>
